@@ -1,2 +1,23 @@
-python-dotenv
+
 streamlit
+agno
+groq
+openai
+python-dotenv
+youtube-transcript-api
+requests
+httpx
+pydantic
+sqlalchemy
+
+
+# streamlit	Frontend UI
+# agno	Build AI agents
+# groq	Groq LLM integration
+# openai	OpenAI model integration
+# python-dotenv	Load API keys from .env
+# youtube-transcript-api	Extract YouTube transcripts
+# requests	HTTP requests
+# httpx	HTTP client
+# pydantic	Data validation
+# sqlalchemy	Database interaction
